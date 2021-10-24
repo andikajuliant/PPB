@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FoodApps</string>
+    <string name="foods_name">Nama Makanan</string>
+    <string name="foods_detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="profile">Profil</string>
+    <string name="about_developer">About Developer</string>
+    <string name="developer_name">Habib Akbar Wibowo</string>
+    <string name="desc_food">Desktipsi Lengkap</string>
+    <string name="dial_map">Dial Map</string>
+    <string name="dial_email">Dial Email</string>
+    <string name="dial_number">Dial Number</string>
+</resources>

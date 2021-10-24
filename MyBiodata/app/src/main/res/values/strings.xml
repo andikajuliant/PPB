@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBiodata</string>
+    <string name="about_developer">About Developer</string>
+    <string name="developer_name">Andika Juliant</string>
+    <string name="dial_map">Dial Map</string>
+    <string name="dial_email">Dial Email</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="nim">A11.2019.12266</string>
+    <string name="desc_me">Saya Andika dari Pati. Saya adalah mahasiswa teknik informatika angkatan 19.</string>
+    <string name="hobby_desc">Hobby saya adalah belajar belajar dan belajar karena saya ingin menjadi seperti elon musk.</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BidangDatar</string>
+    <string name="length">Panjang , Jari - jari</string>
+    <string name="width">Lebar, Alas, Phi</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate_segitiga">Hitung Segitiga</string>
+    <string name="calculate_persegi">Hitung Persegi</string>
+    <string name="calculate_lingkaran">Hitung Lingkaran</string>
+    <string name="result_keliling">Hasil Keliling</string>
+    <string name="result_luas">Hasil Luas</string>
+
+</resources>
