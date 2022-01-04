@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="enter_number_to_one">Masukkan angka ke-1</string>
+    <string name="enter_number_to_two">Masukkan angka ke-2</string>
+    <string name="calculator">Kalkulator</string>
+    <string name="hitung">Hitung</string>
+    <string name="field_cannot_be_empty">Field ini tidak boleh kosong</string>
+    <string name="equals">=</string>
+    <string name="history">History</string>
+    <string name="delete">Delete</string>
+    <string name="not_history">Tidak ada history saat ini.</string>
+
+    <string-array name="operators">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
